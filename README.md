@@ -17,7 +17,7 @@ To preprocess the data, algorithms were developed to consolidate multi-label inp
 
 Person:
 
-![image_19_true_0_predicted_0](https://github.com/efemcirpar/CNN-Based-HIT-UAV-Thermal-Image-Classification/assets/128602263/6525a297-952c-4a96-b673-ed17b4166878)
+![image_10_true_0_predicted_0](https://github.com/efemcirpar/CNN-Based-HIT-UAV-Thermal-Image-Classification/assets/128602263/47c6c68d-6db1-409a-b94a-a6fc9c7447f5)
 
 Car:
 
