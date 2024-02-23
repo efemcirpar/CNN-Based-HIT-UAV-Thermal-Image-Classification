@@ -1,1 +1,1 @@
-# HIT-UAV-Thermal-Image-Classification
+# HIT-UAV Thermal Image Classification
