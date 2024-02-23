@@ -40,7 +40,7 @@ The model achieved impressive results during training, validation, and testing:
 - Validation accuracy: 91.13%
 - Test accuracy: 87.32%
 
-## Confussion Matrices
+## Confusion Matrices
 
 ![confusion_matrix_train](https://github.com/efemcirpar/CNN-Based-HIT-UAV-Thermal-Image-Classification/assets/128602263/f70286ea-b46d-40cb-9403-d77fc3194d74)
 ![confusion_matrix_val](https://github.com/efemcirpar/CNN-Based-HIT-UAV-Thermal-Image-Classification/assets/128602263/64120d29-96d4-41ed-9193-d14ac2efb8a9)
