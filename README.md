@@ -1,1 +1,1 @@
-# HIT-UAV Thermal Image Classification
+# CNN Based HIT-UAV Thermal Image Classification
