@@ -22,6 +22,7 @@ Person:
 Car:
 
 ![image_3_true_1_predicted_1](https://github.com/efemcirpar/CNN-Based-HIT-UAV-Thermal-Image-Classification/assets/128602263/7ccd2c0c-f32a-4fa1-88d4-1ef54466063f)
+
 Bicycle:
 
 ![image_15_true_2_predicted_2](https://github.com/efemcirpar/CNN-Based-HIT-UAV-Thermal-Image-Classification/assets/128602263/093b708d-6a56-4733-beac-c0aedd2a4973)
