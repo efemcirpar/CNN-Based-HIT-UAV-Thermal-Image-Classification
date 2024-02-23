@@ -16,10 +16,14 @@ To preprocess the data, algorithms were developed to consolidate multi-label inp
 #### Sample Images
 
 Person:
+
 ![image_19_true_0_predicted_0](https://github.com/efemcirpar/CNN-Based-HIT-UAV-Thermal-Image-Classification/assets/128602263/6525a297-952c-4a96-b673-ed17b4166878)
+
 Car:
+
 ![image_3_true_1_predicted_1](https://github.com/efemcirpar/CNN-Based-HIT-UAV-Thermal-Image-Classification/assets/128602263/7ccd2c0c-f32a-4fa1-88d4-1ef54466063f)
 Bicycle:
+
 ![image_15_true_2_predicted_2](https://github.com/efemcirpar/CNN-Based-HIT-UAV-Thermal-Image-Classification/assets/128602263/093b708d-6a56-4733-beac-c0aedd2a4973)
 
 
